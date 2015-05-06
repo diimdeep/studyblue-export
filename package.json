@@ -1,0 +1,21 @@
+{
+  "name": "studyblue-export",
+  "version": "0.1.0",
+  "description": "Export StudyBlue's guide in markdown with images",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "studyblue-export": "./index.js"
+  },
+  "preferGlobal": true,
+  "author": "Dmitry Wolf <dmitry.s.wolf@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^0.18.0",
+    "commander": "^2.5.0",
+    "iconv-lite": "^0.4.5",
+    "request": "^2.51.0"
+  }
+}
