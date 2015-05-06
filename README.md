@@ -1,4 +1,4 @@
-studyblue-bypass
+studyblue-export
 ================
 
 Export StudyBlue's guide in markdown with images.
