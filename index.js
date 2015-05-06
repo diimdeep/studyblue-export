@@ -8,7 +8,7 @@ var fs = require('fs');
 path = require('path');
 
 program
-  .version('0.2.0')
+  .version('0.1.1')
   .usage('--url <url> --out <filename or path>')
   .option('-u, --url <url>', 'URL to scrape')
   .option('-o, --out <out>', 'Output file name or path')

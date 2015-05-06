@@ -1,6 +1,6 @@
 {
   "name": "studyblue-export",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Export StudyBlue's guide in markdown with images",
   "main": "index.js",
   "scripts": {
