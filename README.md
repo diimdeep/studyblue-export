@@ -14,7 +14,7 @@ studyblue-export --url <url> --out <filename>
 
 Example:
 
-`studyblue-export --url "https://www.studyblue.com/notes/note/n/art-1020-study-guide-2012-13-kerridge/deck/9724070" --out "art-1020-study-guide-2012-13-kerridge"`
+`studyblue-export --url "https://www.studyblue.com/notes/note/n/artapp-1020-study-guide-2014-15-kerridge/deck/12053046" --out "artapp-1020-study-guide-2014-15-kerridge"`
 
 ## License
 MIT.
